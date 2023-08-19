@@ -81,7 +81,7 @@ img{
 {	
 	display: inline-block;
 	height: 400px;
-	width: 1300px;
+	width: 1200px;
 	margin-left: 60px;
 	justify-content: space-evenly;
 	
@@ -91,7 +91,7 @@ img{
 	font-family: 'Roboto Slab', serif;
 	padding: 0px;
 	font-size: 30px;
-	margin-left: 190px;
+	margin-left: 165px;
 }
 .liti1{
 	height: 550px;
@@ -130,7 +130,7 @@ img{
 	/* width: 33%; */
 	box-sizing: border-box;
 	display: inline-block;
-	margin: 10px 50px 10px 80px;
+	margin: 10px 50px 10px 50px;
 }
 	
 .from
@@ -169,6 +169,6 @@ img{
 	width: 450px;
 	height: 80px;
 	margin-top: 80px;
-	margin-left: 300px;
+	margin-left: 330px;
 	/* border: 1px solid black; */
 }
