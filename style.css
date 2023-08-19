@@ -59,7 +59,7 @@ img{
 	font-family: 'Alegreya', serif;
 	font-family: 'Edu SA Beginner', cursive;
 	font-family: 'Roboto Slab', serif;
-	margin-top: 50px;
+	margin-top: 33px;
 	/* padding-top: 1px; */
 	height: 30px;
 	width: 500px;
@@ -91,20 +91,20 @@ img{
 	font-family: 'Roboto Slab', serif;
 	padding: 0px;
 	font-size: 30px;
-	margin-left: 170px;
+	margin-left: 190px;
 }
 .liti1{
-	height: 520px;
+	height: 550px;
 	width: 6px;
 	float: left;
 	background-color:rgb(91, 90, 155);;
 	justify-content: space-evenly;
-	margin: 16px 10px 0px 40px;
+	margin: 16px 10px 0px 30px;
 	border-radius: 5px;
 	box-shadow: 10px 0px 10px 2px rgb(82, 84, 129);
 }
 .liti2{
-	height: 520px;
+	height: 550px;
 	width: 6px;
 	float: left;
 	background-color:rgb(50, 124, 115);
@@ -114,7 +114,7 @@ img{
 	box-shadow: 10px 0px 10px 2px rgb(82, 124, 129);
 }
 .liti3{
-	height: 520px;
+	height: 550px;
 	width: 6px;
 	float: left;
 	background-color: rgb(70, 114, 59);
@@ -130,7 +130,7 @@ img{
 	/* width: 33%; */
 	box-sizing: border-box;
 	display: inline-block;
-	margin: 10px 70px 10px 70px;
+	margin: 10px 50px 10px 80px;
 }
 	
 .from
@@ -139,7 +139,7 @@ img{
 	width: 250px;
 	border: 1px solid black;
 	/* margin-top: 100px; */
-	/* margin-left: 250px; */
+	margin-left: 8px;
 	border-radius: 20px; 
 	/* display: inline-block; */
 	/* float: left; */
@@ -153,6 +153,22 @@ img{
 	/* margin-top: 100px;
 	margin-left: 150px; */
 	border-radius: 20px;
+    margin-left: 110px;
 	/* float:left; */
 	/* display: inline-block; */
+}
+.o{
+	height: 180px;
+	width: 250px;
+	/* border: 1px solid black; */
+	border-radius: 20px;
+	/* margin-top: 30px; */
+}
+.jp{
+	border-radius: 20px;
+	width: 450px;
+	height: 80px;
+	margin-top: 80px;
+	margin-left: 300px;
+	/* border: 1px solid black; */
 }
